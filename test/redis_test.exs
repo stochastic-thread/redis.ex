@@ -1,6 +1,6 @@
-defmodule ErldisTest do
+defmodule RedisTest do
   use ExUnit.Case
-  doctest Erldis
+  doctest Redis
 
   test "the truth" do
     assert 1 + 1 == 2
